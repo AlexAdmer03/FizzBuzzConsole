@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzConsoleTDD", "FizzB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTDD", "TestTDD\TestTDD.csproj", "{F381A640-7194-4DE3-93C3-4BF4094E801F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculatorTDD", "StringCalculatorTDD\StringCalculatorTDD.csproj", "{547A551A-3F6B-4187-BF6C-BD1F9CC8AE76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestStringCalc", "TestStringCalc\TestStringCalc.csproj", "{2A9FDB35-213E-4442-9125-9B3031D58FE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F381A640-7194-4DE3-93C3-4BF4094E801F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F381A640-7194-4DE3-93C3-4BF4094E801F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F381A640-7194-4DE3-93C3-4BF4094E801F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547A551A-3F6B-4187-BF6C-BD1F9CC8AE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547A551A-3F6B-4187-BF6C-BD1F9CC8AE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547A551A-3F6B-4187-BF6C-BD1F9CC8AE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547A551A-3F6B-4187-BF6C-BD1F9CC8AE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9FDB35-213E-4442-9125-9B3031D58FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9FDB35-213E-4442-9125-9B3031D58FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9FDB35-213E-4442-9125-9B3031D58FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9FDB35-213E-4442-9125-9B3031D58FE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
